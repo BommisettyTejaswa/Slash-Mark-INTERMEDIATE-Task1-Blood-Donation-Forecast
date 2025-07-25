@@ -7,4 +7,4 @@ Intern ID: SMI79272
 
 Domain:Machine Learning Internship
 
-PROJECT NAME:Simple Task List
+PROJECT NAME:Blood-Donation-Forecast
